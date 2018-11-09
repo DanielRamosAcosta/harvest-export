@@ -1,0 +1,15 @@
+{
+  "name": "harvest-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "export": "node ./src/report.js"
+  },
+  "author": "Daniel Ramos",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "puppeteer": "^1.10.0"
+  }
+}
